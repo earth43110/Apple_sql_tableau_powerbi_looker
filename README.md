@@ -6,6 +6,8 @@ various Apple retail locations globally. By tackling a variety of questions, fro
 ## PowerBI Dashboard Link
 https://app.powerbi.com/view?r=eyJrIjoiMDZlOGU4ZjAtZjg2Yi00NWVhLTkxNjUtYWMyYTY0Y2I2YmI1IiwidCI6ImVhY2U1MTkxLWY0NDItNGExMS05NzMzLWI3YmViNWIwMTg2YSIsImMiOjF9
 
+- Created PowerBI dashboard with 3 visuals and descriptions on product sales details
+
 ## Entity Relationship Diagram (ERD)
 ![erd](https://github.com/user-attachments/assets/13df2535-4aa6-436f-a037-49eef13e77d9)
 
