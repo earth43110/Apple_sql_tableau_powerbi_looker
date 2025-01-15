@@ -3,6 +3,9 @@
 This project is designed to showcase advanced SQL querying techniques through the analysis of over 1 million rows of Apple retail sales data. The dataset includes information about products, stores, sales transactions, and warranty claims across 
 various Apple retail locations globally. By tackling a variety of questions, from basic to complex, this project demonstrates the ability to write sophisticated SQL queries that extract valuable insights from large datasets.
 
+## PowerBI Dashboard Link
+https://app.powerbi.com/view?r=eyJrIjoiMDZlOGU4ZjAtZjg2Yi00NWVhLTkxNjUtYWMyYTY0Y2I2YmI1IiwidCI6ImVhY2U1MTkxLWY0NDItNGExMS05NzMzLWI3YmViNWIwMTg2YSIsImMiOjF9
+
 ## Entity Relationship Diagram (ERD)
 ![erd](https://github.com/user-attachments/assets/13df2535-4aa6-436f-a037-49eef13e77d9)
 
