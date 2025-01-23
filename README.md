@@ -8,6 +8,10 @@ https://app.powerbi.com/view?r=eyJrIjoiMDZlOGU4ZjAtZjg2Yi00NWVhLTkxNjUtYWMyYTY0Y
 
 - Created PowerBI dashboard with 3 visuals and descriptions on product sales details
 
+## Tableau Dashboard Link
+https://public.tableau.com/shared/6QKG4CGNW?:display_count=n&:origin=viz_share_link
+- Tableau version
+
 ## Entity Relationship Diagram (ERD)
 ![erd](https://github.com/user-attachments/assets/13df2535-4aa6-436f-a037-49eef13e77d9)
 
