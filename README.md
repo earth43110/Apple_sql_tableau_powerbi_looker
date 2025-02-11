@@ -12,6 +12,10 @@ https://app.powerbi.com/view?r=eyJrIjoiMDZlOGU4ZjAtZjg2Yi00NWVhLTkxNjUtYWMyYTY0Y
 [https://public.tableau.com/shared/6QKG4CGNW?:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/AppleSales2/SalesDetailsDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 - Tableau version
 
+## Looker Dashboard Link
+https://lookerstudio.google.com/embed/reporting/874f778e-f513-4e41-b8af-2c82ee8bab1f/page/oRepE
+- Looker studio version
+
 ## Entity Relationship Diagram (ER)
 ![erd](https://github.com/user-attachments/assets/13df2535-4aa6-436f-a037-49eef13e77d9)
 
